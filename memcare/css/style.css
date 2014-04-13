@@ -1,0 +1,44 @@
+body{
+    margin-top: 60px;
+}
+
+
+
+.navbar-brand, .navbar-default .navbar-brand{
+    font-family: 'Exo 2', sans-serif;
+    color: #e74c3c;
+    font-size: 32px;
+    font-weight: 900;
+    font-style: italic;
+    letter-spacing: 2px;
+    text-shadow:
+        -1px -1px 0 rgba(255, 255, 255, 0.6),
+        1px -1px 0 rgba(255, 255, 255, 0.6),
+        -1px 1px 0 rgba(255, 255, 255, 0.6),
+        1px 1px 0 rgba(255, 255, 255, 0.6);
+}
+
+.navbar-brand, .navbar-default .navbar-brand:hover{
+    color: #e74c3c;
+}
+
+.has-success .form-control,
+.has-success .form-control:focus {
+    border: 2px solid rgba(52, 152, 219, 1.0);
+}
+
+.has-success .form-control, .has-success .form-control:focus {
+    border: 2px solid rgba(52, 152, 219, 1.0);
+}
+
+.panel-option{
+    margin-top: 20px;
+}
+
+span.required{
+    display:none;
+}
+
+.jumbotron{
+    text-align: center;
+}
