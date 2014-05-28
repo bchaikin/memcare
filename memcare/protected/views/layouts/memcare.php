@@ -36,7 +36,7 @@
     <!-- Jumbotron -->
     <div class="jumbotron">
         <h1><img src="/images/logo.png" style="max-width: 500px"></h1>
-        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>
+        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam.</p>
         <p><a class="btn btn-lg btn-success" href="#" role="button">Get started today</a></p>
     </div>
 
@@ -63,7 +63,7 @@
     <div class="footer">
 
     </div>
-    <div class="col-md-12"></div>
+    <div class="col-md-12">&nbsp;</div>
 
 </div> <!-- /container -->
 
